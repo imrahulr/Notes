@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notes"</string>
+    <string name="note_title_hint">Title for Note</string>
+    <string name="note_subject_hint">Content for Note</string>
+    <string name="note_subject_label">Content</string>
+    <string name="note_title_label">Title</string>
+    <string name="note_details_label">Details</string>
+    <string name="note_solved_label1">Star</string>
+    <string name="note_solved_label2">Starred</string>
+    <string name="new_note">New note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="restore_note">Restore</string>
+    <string name="delete_question">Are you sure you want to delete this note?</string>
+    <string name="note_share"><b>TITLE</b>: %1$s\n\n<b>LAST EDITED</b>: %2$s\n\n<b>SUBJECT</b>: %3$s</string>
+    <string name="note_search_hint">Search by Title</string>
+    <string name="delete_question_final">Are you sure you want to permanently delete this note?</string>
+    <string name="save_note">Do you want to save the new changes to the note?</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>All Notes</item>
+        <item>Favourites</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="no_notes"><b>It all begins with notes</b> \nTap to create a note. Take a photo, add audio or type some text</string>
+
+    <string name="selected_count">selected</string>
+    <string name="empty_bin">Are you sure you want to empty the bin?</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="activity_title_about_us">About Us</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="uploading">Uploading to Drive...</string>
+    <string name="restoring">Restoring from Drive...</string>
+    <string name="done">Done</string>
+</resources>

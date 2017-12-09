@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_menu_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_delete_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_search_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_star_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_star_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_create_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_view_quilt_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_view_quilt_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_add_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_share_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_add_circle_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_brightness_5_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_brightness_5_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_account_circle_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_account_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_audiotrack_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_audiotrack_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_view_stream_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_view_stream_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_brightness_1_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_brightness_1_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_keyboard_arrow_left_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_palette_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_palette_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_add.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_fiber_new_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_fiber_new_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_add_a_photo_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_insert_photo_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_insert_photo_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_share_black_36.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable-xhdpi/ic_share_black_36.png"
+    }
+]

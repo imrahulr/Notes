@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

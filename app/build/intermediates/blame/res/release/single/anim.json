@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/fab_close.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/anim/fab_close.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/rotate_backward.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/anim/rotate_backward.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/rotate_forward.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/anim/rotate_forward.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/fab_open.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/anim/fab_open.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    }
+]

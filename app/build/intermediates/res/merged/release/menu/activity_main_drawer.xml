@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_notes"
+            android:title="All Notes"
+            android:icon="@drawable/ic_note_24"
+            />
+        <item
+            android:id="@+id/nav_recent"
+            android:title="Recents"
+            android:icon="@drawable/ic_fiber_new_black_24dp"/>
+        <item
+            android:id="@+id/nav_fav"
+            android:title="Favourites"
+            android:icon="@drawable/ic_star_black_24dp"
+            />
+        <item
+            android:id="@+id/nav_bin"
+            android:title="Bin"
+            android:icon="@drawable/ic_delete_white_24dp"
+            />
+
+    </group>
+
+    <item android:title="Other"
+        android:checkableBehavior="none">
+    <menu>
+            <item
+                android:id="@+id/nav_upload_drive"
+                android:title="Upload to Drive" />
+            <item
+                android:id="@+id/nav_restore_drive"
+                android:title="Restore from Drive" />
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="About Us" />
+        </menu>
+    </item>
+
+</menu>

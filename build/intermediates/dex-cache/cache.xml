@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sohamdeshmukh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_0ea3ec5b9a4991e53c44b7f98b13a6ae32723218/classes.dex" />
+    </item>
+
+</items>

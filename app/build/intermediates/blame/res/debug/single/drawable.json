@@ -1,0 +1,1402 @@
+[
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_instagram.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_instagram.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/play_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/play_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_media_stop_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_media_stop_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\play_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes.jpg",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\notes.jpg"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_view_item_color.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\nav_view_item_color.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_white_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\stop_white_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_media_stop_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_note_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_note_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_share_black_36.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_share_black_36.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_email.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_email.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fav_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_fav_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fav_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_fav_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_note.jpg",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_note.jpg"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_audio_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_audio_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audio_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_audio_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_fav_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_fav_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_github.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_github.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_media_stop_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_pause_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_black_36.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_share_black_36.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_palette_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_palette_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_note_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_note_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_settings_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\e301e8cee74a224e1fc233a7f00f724c8620a8b9\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\stop_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_menu_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_twitter.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_twitter.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\e301e8cee74a224e1fc233a7f00f724c8620a8b9\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_search_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\c9dd739506db9acffa487061855f712b34626760\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_palette_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_palette_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/nav_view_item_color.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/nav_view_item_color.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/stop_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/stop_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_palette_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_palette_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\stop_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_view_item_color.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\nav_view_item_color.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_menu_black_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/notes.jpg",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/notes.jpg"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\e301e8cee74a224e1fc233a7f00f724c8620a8b9\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_facebook.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_facebook.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_search_black_24dp.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\play_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_black_36.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_share_black_36.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_link.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_link.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\sohamdeshmukh\\documetns\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_google_play.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_google_play.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0410df5e89e4744701fc660d3709c9b89058bd80\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_white_24dp.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/ic_note_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_note_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes.jpg",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\notes.jpg"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_media_stop_light.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_media_stop_light.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audio_24.png",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\ic_audio_24.png"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\d57e34f10105b23e9bb290c2bee142dd078ac7a0\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/debug/drawable/about_icon_youtube.xml",
+        "source": "/Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/res/drawable/about_icon_youtube.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\54ad24f991b2cb9ae0eb14778dd41fbb86921d93\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\Personal\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/C:\\Users\\SAGAR\\.android\\build-cache\\0c9d8cc1b456379174b733d330023d71ac63b1db\\output\\res\\drawable\\mr_media_pause_light.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/fragment_note_list_bin.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/fragment_note_list_bin.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/fragment_note.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/fragment_note.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/menu_long_press.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/menu_long_press.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/activity_main_drawer.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/fragment_note_list.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/fragment_note_list.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/bin_coxtext_action_bar.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/bin_coxtext_action_bar.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/bottom_nav_items.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/bottom_nav_items.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/fragment_note_list_recent.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/fragment_note_list_recent.xml"
+    },
+    {
+        "merged": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/build/intermediates/res/merged/release/menu/fragment_note_list_fav.xml",
+        "source": "/Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/res/menu/fragment_note_list_fav.xml"
+    }
+]

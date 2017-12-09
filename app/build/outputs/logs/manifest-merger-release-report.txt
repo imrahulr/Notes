@@ -1,0 +1,360 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:5:5-7:38
+	android:maxSdkVersion
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:7:9-35
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:6:9-64
+uses-feature#android.hardware.camera
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:10:9-47
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:16:22-68
+application
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:18:5-78:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sohamdeshmukh/.android/build-cache/2e4ddb60780d7263ce65bffc2cd7626533828ec3/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/sohamdeshmukh/.android/build-cache/b3c137932633d0b75c961fc7309122f508328ad7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:mediarouter-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/fa482bf872d70f9d469daf8934d7a5e915aab2da/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/2cfb2023e4f53ba6c5eb2482cce319e3ffa3847b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] /Users/sohamdeshmukh/.android/build-cache/14bdcc83e32a0f4f9cfb02f53a635941107028c3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] /Users/sohamdeshmukh/.android/build-cache/1356f4affbc9a0466afa7448d7d3eae2a469e094/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sohamdeshmukh/.android/build-cache/22d75cfa7eb6c4930287c9110fc9960805d8ea9a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8ccb70952012ae558ee88e61c7382d4f99fad6e9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.6] /Users/sohamdeshmukh/.android/build-cache/3926a58fbecb958fe7a0ff849b0a770690b0e72e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/sohamdeshmukh/.android/build-cache/682e8fe594e8457ca27b639c539a207fc6fcc6f8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/sohamdeshmukh/.android/build-cache/0ac93e63211e86e77f8ee0a1c04ab3dd5460adb4/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sohamdeshmukh/.android/build-cache/de4bfbcd833ff29394313c05d4c16d8ab174c093/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sohamdeshmukh/.android/build-cache/1d8b29ccd15bb2ba8f813c8682e32a992c3f8d8b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8dbb0e4438c5e8bd527c1d154f9e850a8ef2240c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sohamdeshmukh/.android/build-cache/33f176e6b6f7ad92a1d19044470d8b785aa64232/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sohamdeshmukh/.android/build-cache/5633d956eb2fe9a743e60194f8adf5c145a7d5d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sohamdeshmukh/.android/build-cache/b602d22dd91f6323846c064b9134e07927f4d3cf/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:23:9-40
+meta-data#com.google.android.gms.version
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:24:9-26:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/sohamdeshmukh/.android/build-cache/0ac93e63211e86e77f8ee0a1c04ab3dd5460adb4/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:25:13-58
+activity#developers.sd.notes.SplashActivity
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:theme
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:28:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:32:27-74
+activity#developers.sd.notes.NoteListActivity
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:36:9-45:20
+	android:theme
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:37:13-45
+meta-data#android.app.searchable
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:39:13-41:54
+	android:resource
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:41:17-51
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:40:17-54
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:42:13-44:29
+action#android.intent.action.SEARCH
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:43:17-71
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:43:25-68
+activity#developers.sd.notes.AboutUs
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:47:9-51:20
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:47:19-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:48:13-50:53
+	android:value
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:50:17-50
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:49:17-63
+activity#developers.sd.notes.NoteActivity
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:53:9-59:20
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:53:19-47
+activity#developers.sd.notes.FullScreenImage
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:61:9-63:78
+	android:theme
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:62:13-44
+activity#developers.sd.notes.UploadToDriveActivity
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:65:9-59
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:65:19-56
+activity#developers.sd.notes.RestoreDriveActivity
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:66:9-58
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:66:19-55
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:68:9-76:20
+	android:authorities
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:70:13-63
+	android:grantUriPermissions
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:72:13-47
+	android:exported
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:69:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:73:13-75:58
+	android:resource
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:75:17-55
+	android:name
+		ADDED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml:74:17-67
+uses-sdk
+INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sohamdeshmukh/.android/build-cache/2e4ddb60780d7263ce65bffc2cd7626533828ec3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /Users/sohamdeshmukh/.android/build-cache/b3c137932633d0b75c961fc7309122f508328ad7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/fa482bf872d70f9d469daf8934d7a5e915aab2da/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/210cf7816589a7437dcefbf98207c76dfe667bc1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/2cfb2023e4f53ba6c5eb2482cce319e3ffa3847b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] /Users/sohamdeshmukh/.android/build-cache/14bdcc83e32a0f4f9cfb02f53a635941107028c3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/f4e1003146bd0fd2a05aee6cb34f70a4e5daddd7/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] /Users/sohamdeshmukh/.android/build-cache/1356f4affbc9a0466afa7448d7d3eae2a469e094/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/AndroidManifest.xml:17:5-43
+MERGED from [com.github.medyo:android-about-page:1.2.1] /Users/sohamdeshmukh/.android/build-cache/7ba699bf2fa9097f0ba515e644ee4829370857ed/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sohamdeshmukh/.android/build-cache/22d75cfa7eb6c4930287c9110fc9960805d8ea9a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8ccb70952012ae558ee88e61c7382d4f99fad6e9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] /Users/sohamdeshmukh/.android/build-cache/3926a58fbecb958fe7a0ff849b0a770690b0e72e/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/sohamdeshmukh/.android/build-cache/682e8fe594e8457ca27b639c539a207fc6fcc6f8/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/sohamdeshmukh/.android/build-cache/0ac93e63211e86e77f8ee0a1c04ab3dd5460adb4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sohamdeshmukh/.android/build-cache/de4bfbcd833ff29394313c05d4c16d8ab174c093/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sohamdeshmukh/.android/build-cache/1d8b29ccd15bb2ba8f813c8682e32a992c3f8d8b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8dbb0e4438c5e8bd527c1d154f9e850a8ef2240c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sohamdeshmukh/.android/build-cache/33f176e6b6f7ad92a1d19044470d8b785aa64232/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sohamdeshmukh/.android/build-cache/5633d956eb2fe9a743e60194f8adf5c145a7d5d9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sohamdeshmukh/.android/build-cache/b602d22dd91f6323846c064b9134e07927f4d3cf/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamdeshmukh/AndroidStudioProjects/Notes/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/sohamdeshmukh/.android/build-cache/b3c137932633d0b75c961fc7309122f508328ad7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:mediarouter-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/d947d9a5b3bd3f3b4d1d28f8c1ad262d5fef9c58/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/fa482bf872d70f9d469daf8934d7a5e915aab2da/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/210cf7816589a7437dcefbf98207c76dfe667bc1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/2cfb2023e4f53ba6c5eb2482cce319e3ffa3847b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sohamdeshmukh/.android/build-cache/718177fccf92b9338476ec9cf20de3efe548943c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sohamdeshmukh/.android/build-cache/22d75cfa7eb6c4930287c9110fc9960805d8ea9a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8ccb70952012ae558ee88e61c7382d4f99fad6e9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sohamdeshmukh/.android/build-cache/de4bfbcd833ff29394313c05d4c16d8ab174c093/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sohamdeshmukh/.android/build-cache/1d8b29ccd15bb2ba8f813c8682e32a992c3f8d8b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8dbb0e4438c5e8bd527c1d154f9e850a8ef2240c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sohamdeshmukh/.android/build-cache/33f176e6b6f7ad92a1d19044470d8b785aa64232/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sohamdeshmukh/.android/build-cache/5633d956eb2fe9a743e60194f8adf5c145a7d5d9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sohamdeshmukh/.android/build-cache/b602d22dd91f6323846c064b9134e07927f4d3cf/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/sohamdeshmukh/.android/build-cache/8fa9d1bfb339715dd03338b7a715a67a0d77737a/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /Users/sohamdeshmukh/.android/build-cache/2e002e15e9ee1fc484368c54744491649aaa3596/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/sohamdeshmukh/.android/build-cache/8b9562d545712340c05b5aa92c315cdb38ef1723/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/sohamdeshmukh/.android/build-cache/91bcfbab675e32612e58c598c4e56c04cd5e281f/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/sohamdeshmukh/.android/build-cache/6cf483aaacfb7c3c975c4c6926faa8418cd31eb2/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/sohamdeshmukh/.android/build-cache/446a2a76a7bd631162be8633810b2c97ba2caddd/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/sohamdeshmukh/.android/build-cache/c84067b9e34468efaffa4257c69c6c0b6b130ee3/output/AndroidManifest.xml:6:79-143
