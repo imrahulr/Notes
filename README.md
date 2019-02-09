@@ -12,7 +12,7 @@ Notes is an android app to take notes, make to-do lists, save important photos, 
 
 #### Images
 
-<p float="left">
+<p float="left" align="center">
   <img src="/img/ss6.png" width="40%" height="30%" />
   <img src="/img/ss2.png" width="40%" height="30%" /> 
 </p>
